@@ -1,0 +1,2 @@
+Ekstrak data dari Postgressql ke Snowflake (menggunakan Airbyte)
+Load data ke dalam Datamart untuk kemudian dibuat dashboard visualisasi (menggunakan Looker Studio : https://lookerstudio.google.com/reporting/6b1f7e43-d8c3-48d6-9f77-5f2b5a8aa87d)
